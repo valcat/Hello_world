@@ -1,0 +1,7 @@
+$ git init
+Initialized empty Git repository ...
+$ echo This is the README file. > README
+$ git add .
+$ git commit -m'Initial commit.'
+[master (root-commit) 832b426] initial commit.
+ create mode 100644 README
